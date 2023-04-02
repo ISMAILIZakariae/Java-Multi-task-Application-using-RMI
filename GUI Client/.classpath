@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="dashboard-013/src"/>
+	<classpathentry kind="src" path="dashboard-013/test"/>
+	<classpathentry kind="lib" path="dashboard-013/dist/dashboard-013.jar"/>
+	<classpathentry kind="lib" path="dashboard-013/dist/lib/flatlaf-2.4.jar"/>
+	<classpathentry kind="lib" path="dashboard-013/dist/lib/flatlaf-extras-2.4.jar"/>
+	<classpathentry kind="lib" path="dashboard-013/dist/lib/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="dashboard-013/dist/lib/TimingFramework-0.55.jar"/>
+	<classpathentry kind="lib" path="dashboard-013/flatlaf-2.4.jar"/>
+	<classpathentry kind="lib" path="dashboard-013/flatlaf-extras-2.4.jar"/>
+	<classpathentry kind="lib" path="dashboard-013/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="dashboard-013/TimingFramework-0.55.jar"/>
+	<classpathentry kind="output" path="dashboard-013/build/classes"/>
+</classpath>
